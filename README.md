@@ -139,7 +139,7 @@ hf_hub_download(
 "
 ```
 
-Or download manually from: [Hugging Face Model Page](https://huggingface.co/AzizKouch/emotion-detection-distilbert/tree/main)
+Or download manually from: [Hugging Face Model Page](hhttps://huggingface.co/AzizKouch/emotion-detection-distilbert)
 
 ### 4. Run the API locally
 
@@ -147,7 +147,7 @@ Or download manually from: [Hugging Face Model Page](https://huggingface.co/Aziz
 uvicorn app:app --host 0.0.0.0 --port 8000 --reload
 ```
 
-Open [http://localhost:8080](http://localhost:8000) in your browser.
+Open [http://localhost:8000](http://localhost:8000) in your browser.
 
 ---
 
