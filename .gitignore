@@ -1,0 +1,49 @@
+# Model weights (too large for GitHub — host on Hugging Face)
+model/model.safetensors
+
+# Python
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+.Python
+*.egg
+*.egg-info/
+dist/
+build/
+.eggs/
+
+# Virtual environments
+.env
+.venv
+env/
+venv/
+ENV/
+
+# Jupyter checkpoints
+.ipynb_checkpoints/
+*.ipynb_checkpoints
+
+# Data files (download from Kaggle)
+data/*.txt
+data/*.csv
+data/*.zip
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Google Cloud
+.gcloudignore
+gcloud-service-key.json
+*.json.key
+
+# Logs
+*.log
+logs/
